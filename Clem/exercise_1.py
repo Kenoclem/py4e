@@ -1,0 +1,1 @@
+print('Pay:', int(input('Enter Hours: ')) * int(input('Enter Rate: ')))

@@ -1,0 +1,1 @@
+print("Temperature in Fahrenheit:", (int(input("Temperature in Celsius: ")) * 1.8) + 32)
